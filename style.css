@@ -1,0 +1,45 @@
+.box-grid{
+    display: grid;
+    grid-template-columns: 20% auto;
+    grid-template-rows: 20% auto;
+    gap: 15px;
+    background-color: #fcdee0;
+}
+.logo{
+    height: 80%;
+    width: auto;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+h2{
+    text-align: left;
+    color: black;
+}
+h3{
+    text-align: center;
+    color: black;
+    border: 5px;
+    margin: 6px;
+}
+h4{
+    text-align: center;
+    color: black;
+    border: 5px;
+    margin: 6px;
+}
+h5{
+    text-align: center;
+    color: black;
+    border: 5px;
+    margin: 6px;
+}
+
+footer{
+    text-align: center;
+}
+.nav{
+    border: 5px;
+    margin: 6px;
+}
